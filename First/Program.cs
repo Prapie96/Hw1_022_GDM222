@@ -1,7 +1,5 @@
 ﻿using System;
 
-namespace FunctionF
-{
     class Program
     {
           static double Calculatefuntion(double x)
@@ -22,4 +20,4 @@ namespace FunctionF
             Console.WriteLine("f({0}) = {1}",x,output);
         }
     }
-}
+
