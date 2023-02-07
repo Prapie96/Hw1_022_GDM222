@@ -20,4 +20,3 @@
             Console.WriteLine("f({0}) = {1}",x,output);
         }
     }
-
